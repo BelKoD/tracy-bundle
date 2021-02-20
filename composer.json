@@ -5,6 +5,7 @@
     "keywords": ["Debug", "Nette", "Debugging"],
     "homepage": "https://github.com/kutny/tracy-bundle",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Jiri Koutny",
